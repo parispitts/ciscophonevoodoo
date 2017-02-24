@@ -46,6 +46,16 @@
 <authPassword>PASSWORD</authPassword>
 <messagesNumber>*97</messagesNumber>
 </line>
+<line button="3">
+<featureID>21</featureID>
+<featureLabel>DTMF Test</featureLabel>
+<speedDialNumber>4747</speedDialNumber>
+</line>
+<line button="4">
+<featureID>21</featureID>
+<featureLabel>Echo Test</featureLabel>
+<speedDialNumber>4443</speedDialNumber>
+</line>
 <line button="5">
 <featureID>21</featureID>
 <featureLabel>Feature Label 2</featureLabel>
@@ -53,7 +63,7 @@
 </line>
 <line button="6">
 <featureID>21</featureID>
-<featureLabel>Feature Label 1</featureLabel>
+<featureLabel>Voicemail</featureLabel>
 <speedDialNumber>7001**</speedDialNumber>
 </line>
 </sipLines>
