@@ -1,0 +1,15 @@
+#This successfully updated Cisco Phone (7962) to SIP firmware
+
+
+<device>
+<deviceProtocol>SIP</deviceProtocol>
+<loadInformation model="IP Phone 7960">P0S3-8-12-00</loadInformation>
+</device>
+
+#This is to update a Cisco Phone (7942) to SIP firmware
+
+
+<device>
+<deviceProtocol>SIP</deviceProtocol>
+<loadInformation model="IP Phone 7960">P0S3-8-12-00</loadInformation>
+</device>
