@@ -1,6 +1,5 @@
 <DIALTEMPLATE>
-	<TEMPLATE MATCH="91.........." Timeout="0"/>
-	<TEMPLATE MATCH="911" Timeout="0"/>
+	<TEMPLATE MATCH=".........." Timeout="0"/>
 	<TEMPLATE MATCH="\*..." Timeout="0"/>
 	<TEMPLATE MATCH="[1-8].." Timeout="1"/>
 	<TEMPLATE MATCH="*" Timeout="5"/>
